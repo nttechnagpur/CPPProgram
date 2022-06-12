@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+// int a,b,c,sum;
+// char name[20],sname[20];
+int num=58;
+
+clrscr();
+num%=11;
+printf("%d\n",num);
+// printf("Enter Your Name:");
+// scanf("%s %s",&name,&sname);
+// printf("Your name is: %s %s",name,sname);
+// printf("\nenter the first value ");
+// scanf("%d",&a);
+// printf("\nenter the second value");
+// scanf("%d",&b);
+// printf("\nenter the third value");
+// scanf("%d",&c);
+// sum=a+b-c;
+// printf("\nsum %d",sum);
+getch();
+}
